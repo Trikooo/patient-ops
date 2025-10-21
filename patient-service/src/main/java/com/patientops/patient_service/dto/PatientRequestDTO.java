@@ -19,5 +19,4 @@ public class PatientRequestDTO {
   @NotBlank(message = "Date of birth is required")
   private String dateOfBirth;
 
-
 }
